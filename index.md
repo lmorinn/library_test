@@ -3,18 +3,13 @@ data:
   libraryCategories:
   - name: hello
     pages:
-    - icon: ':warning:'
-      path: hello/AB.cpp
-      title: A + B
-  verificationCategories:
-  - name: test/verify
-    pages:
     - icon: ':heavy_check_mark:'
-      path: test/verify/AB.test.cpp
-      title: test/verify/AB.test.cpp
+      path: hello/AB.hpp
+      title: hello/AB.hpp
+  verificationCategories:
   - name: verify
     pages:
-    - icon: ':x:'
+    - icon: ':heavy_check_mark:'
       path: verify/AB.test.cpp
       title: verify/AB.test.cpp
 layout: toppage
