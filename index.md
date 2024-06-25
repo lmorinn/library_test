@@ -5,7 +5,7 @@ data:
     pages:
     - icon: ':heavy_check_mark:'
       path: hello/AB.hpp
-      title: hello/AB.hpp
+      title: A + B
   verificationCategories:
   - name: verify
     pages:

@@ -3,7 +3,7 @@ data:
   _extendedDependsOn:
   - icon: ':heavy_check_mark:'
     path: hello/AB.hpp
-    title: hello/AB.hpp
+    title: A + B
   _extendedRequiredBy: []
   _extendedVerifiedWith: []
   _isVerificationFailed: false
