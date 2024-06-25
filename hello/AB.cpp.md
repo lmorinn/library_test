@@ -24,8 +24,12 @@ data:
   verifiedWith: []
 documentation_of: hello/AB.cpp
 layout: document
-redirect_from:
-- /library/hello/AB.cpp
-- /library/hello/AB.cpp.html
-title: hello/AB.cpp
+title: A + B
 ---
+
+## 概要
+
+$A + B$ を計算する。
+
+## 計算量
+はやい
