@@ -11,15 +11,15 @@ data:
     - https://judge.yosupo.jp/problem/aplusb
   bundledCode: "#line 1 \"hello/AB.cpp\"\n#define PROBLEM \"https://judge.yosupo.jp/problem/aplusb\"\
     \n#include <iostream>\nusing namespace std;\n\nint main() {\n  long long a, b;\n\
-    \  cin >> a >> b;\n  cout << a + b << endl;\n}\n"
+    \  cin >> a >> b;\n  cout << a + b << endl;\n  \n}\n"
   code: "#define PROBLEM \"https://judge.yosupo.jp/problem/aplusb\"\n#include <iostream>\n\
     using namespace std;\n\nint main() {\n  long long a, b;\n  cin >> a >> b;\n  cout\
-    \ << a + b << endl;\n}"
+    \ << a + b << endl;\n  \n}"
   dependsOn: []
   isVerificationFile: false
   path: hello/AB.cpp
   requiredBy: []
-  timestamp: '2024-06-25 15:44:56+09:00'
+  timestamp: '2024-06-25 16:37:11+09:00'
   verificationStatus: LIBRARY_NO_TESTS
   verifiedWith: []
 documentation_of: hello/AB.cpp
