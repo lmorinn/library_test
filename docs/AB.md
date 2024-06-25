@@ -1,6 +1,6 @@
 ---
 title: A + B
-documentation_of: //hello/AB.cpp
+documentation_of: //hello/AB.hpp
 ---
 
 ## 概要
