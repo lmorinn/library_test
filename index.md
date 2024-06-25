@@ -1,11 +1,11 @@
 ---
 data:
-  libraryCategories:
+  libraryCategories: []
+  verificationCategories:
   - name: hello
     pages:
-    - icon: ':warning:'
-      path: hello/AB.cpp
+    - icon: ':heavy_check_mark:'
+      path: hello/AB.test.cpp
       title: A + B
-  verificationCategories: []
 layout: toppage
 ---
